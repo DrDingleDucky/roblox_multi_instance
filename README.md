@@ -8,7 +8,7 @@ Allows you to open multiple Roblox clients.
 
 ### How To Use
 
-Just run `Roblox-Multi-instance.exe`.
+Just run `roblox-multi-instance.exe`.
 
 ### Things To Note
 
