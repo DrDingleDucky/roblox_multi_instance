@@ -1,4 +1,4 @@
-# Roblox-Multi-Instance
+# roblox_multi_instance
 
 Allows you to open multiple Roblox clients.
 
