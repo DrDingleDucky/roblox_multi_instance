@@ -8,7 +8,7 @@ Allows you to open multiple Roblox clients.
 
 ### How To Use
 
-* Just run `roblox-multi-instance.exe` and keep it open in the background.
+* Just run `roblox_multi_instance.exe` and keep it open in the background.
 
 ### Things To Note
 
